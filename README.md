@@ -1,6 +1,3 @@
-
-<!DOCTYPE html>
-<html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -129,59 +126,3 @@
   </footer>
 </body>
 </html>
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-  font-family: 'Segoe UI', sans-serif;
-}
-
-body {
-  background: #f9f9f9;
-  color: #333;
-  line-height: 1.6;
-}
-
-header {
-  background: #333;
-  color: #fff;
-  padding: 1rem;
-  text-align: center;
-}
-
-nav {
-  margin-top: 0.5rem;
-}
-
-nav a {
-  margin: 0 10px;
-  color: #fff;
-  text-decoration: none;
-  font-weight: bold;
-}
-
-nav a:hover {
-  text-decoration: underline;
-}
-
-main {
-  padding: 2rem;
-}
-
-section {
-  max-width: 800px;
-  margin: auto;
-}
-
-ul {
-  list-style: disc;
-  margin-left: 20px;
-  margin-top: 1rem;
-}
-
-footer {
-  text-align: center;
-  padding: 1rem;
-  background: #eee;
-  margin-top: 2rem;
-}
